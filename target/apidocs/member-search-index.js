@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.impetus.maven_example1","c":"App","l":"App()","url":"%3Cinit%3E()"},{"p":"com.impetus.maven_example1","c":"App","l":"main(String[])","url":"main(java.lang.String[])"}]
